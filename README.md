@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohsin 👋
 
-<!--
-**mohsinkhanwrites/mohsinkhanwrites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Freelance Software Developer | AI Enthusiast | Web Developer  
 
-Here are some ideas to get you started:
+- 🔭 Currently learning AI, Data Science, and Automation  
+- 🌱 Skilled in Python, JavaScript, and Web Development  
+- 📫 Reach me at: mohsinkhanwrites@gmail.com 
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring new tech tools.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Languages & Tools
+Python | JavaScript | HTML | CSS | Git | VS Code  
+
+---
+### 📂 Featured Projects
+- [Simple Python Calculator](https://github.com/mohsinkhanwrites/simple-python-scripts)  
+- [Portfolio Website](https://github.com/mohsinkhanwrites/portfolio-website)  
